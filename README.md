@@ -32,6 +32,6 @@ This Intro Assignment will go through the workflow of Processing and GitHub that
 ![Image 8](/Images/SampleAssignmentSimple8.png)
 
 11. To enable a web page for your program, click on *Settings*. Scroll down to the area marked *GitHub Pages*, and choose *Master branch*. Click save and you should see a message with the URL of your webpage   
-![Image 9](/Images/GitHubPages3.PNG)
+![Image 9](/Images/SampleAssignmentSimple9.png)
 
 12. Submit the URL of your finished assignment to Google Classroom.
