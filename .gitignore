@@ -1,0 +1,4 @@
+# Gitignore for APCS Van Vleet Repositories
+
+# Ignore compiled processing class files
+build-tmp/
