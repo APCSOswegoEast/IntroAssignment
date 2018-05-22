@@ -1,5 +1,3 @@
-# IntroAssignment
-
 Intro Assignment - (Basic Workflow)
 =================
 
